@@ -1,2 +1,2 @@
-# k8s-code-assistant
-record some common codes in k8s development
+# k8s代码助手
+记录k8s开发中的常见代码
