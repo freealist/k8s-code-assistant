@@ -1,3 +1,5 @@
+<a href="curlpod.md" target="_blank">Pod访问</a>
+
 ## 访问pod方式
 
 > 以下都默认`pod`的端口是80，如果不是80，需要在访问时指定端口
