@@ -1,4 +1,4 @@
-<a href="curlpod.md" target="_blank">Pod访问</a>
+<a href="#容器内">Pod访问</a>
 
 ## 访问pod方式
 
