@@ -1,2 +1,3 @@
 # k8s代码助手
-记录k8s开发中的常见代码
+
+<a herf="https://github.com/freealist/k8s-code-assistant/blob/main/curlpod.yaml">访问pod</a>
